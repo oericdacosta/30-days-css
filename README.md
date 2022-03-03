@@ -29,8 +29,21 @@ like the idea? [Click here](https://github.com/MilenaCarecho/30diasDeCSS) to see
 ## day 1 challenge - Layered social media icon <a name="id01"></a>
 ![Day 01](https://user-images.githubusercontent.com/37448340/88348819-d38d7000-cd24-11ea-99d1-39b04afb77f2.gif)
 
-[My code]() *unavailable*
+[My code](https://github.com/oericdacosta/30-days-css/tree/main/day-01)
 
-[view the project]() *unavailable*
+[view the project](https://codepen.io/adsumos/pen/zYPevXQ)
 
 [linkedin post]() *unavailable*
+
+
+##### what I've learned
+
+
+* *Create the layers using the tag `<span>`*
+* *2D or 3D transformation of an element [here](https://www.w3schools.com/cssref/css3_pr_transform.asp)*
+* *[CSS transitions](https://css-tricks.com/almanac/properties/t/transition/)*
+* *[CSS opacity/transparency](https://www.w3schools.com/css/css_image_transparency.asp)*
+* *[hover](https://www.w3schools.com/cssref/sel_hover.asp)*
+* *[nth-child ()](https://css-tricks.com/almanac/selectors/n/nth-child/)*
+
+
