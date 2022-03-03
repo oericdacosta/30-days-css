@@ -33,7 +33,7 @@ like the idea? [Click here](https://github.com/MilenaCarecho/30diasDeCSS) to see
 
 [view the project](https://codepen.io/adsumos/pen/zYPevXQ)
 
-[linkedin post]() *unavailable*
+[linkedin post](https://www.linkedin.com/posts/eric-da-costa_html-css-30diascss-activity-6905258594384658432-Fvdr)
 
 
 ##### what I've learned
