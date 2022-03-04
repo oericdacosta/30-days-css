@@ -53,8 +53,8 @@ like the idea? [Click here](https://github.com/MilenaCarecho/30diasDeCSS) to see
 ![Day 02](https://user-images.githubusercontent.com/37448340/88348825-d5573380-cd24-11ea-832c-989e091167b8.gif)
 
 
-[My code]() *unavailable*
+[My code](https://github.com/oericdacosta/30-days-css/tree/main/day-02)
 
-[View the project]() *unavailable*
+[View the project](https://codepen.io/adsumos/pen/RwjvyyL)
 
 [linkedin post]() *unavailable*
