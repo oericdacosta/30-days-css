@@ -57,4 +57,11 @@ like the idea? [Click here](https://github.com/MilenaCarecho/30diasDeCSS) to see
 
 [View the project](https://codepen.io/adsumos/pen/RwjvyyL)
 
-[linkedin post]() *unavailable*
+[linkedin post](https://www.linkedin.com/posts/eric-da-costa_30diasdecss-html-html5-activity-6905541126821163008-FLVn)
+
+
+##### what I've learned
+
+
+* *[Animations](https://css-tricks.com/almanac/properties/a/animation/)*
+* *[Keyframe](https://css-tricks.com/snippets/css/keyframe-animation-syntax/)*
