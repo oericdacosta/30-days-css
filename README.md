@@ -25,6 +25,7 @@ like the idea? [Click here](https://github.com/MilenaCarecho/30diasDeCSS) to see
 
 
 * [Day 01 - Layered social media icon](#id01)
+* [Day 02 - animated loader](#id02)
 
 ## day 1 challenge - Layered social media icon <a name="id01"></a>
 ![Day 01](https://user-images.githubusercontent.com/37448340/88348819-d38d7000-cd24-11ea-99d1-39b04afb77f2.gif)
@@ -47,3 +48,13 @@ like the idea? [Click here](https://github.com/MilenaCarecho/30diasDeCSS) to see
 * *[nth-child ()](https://css-tricks.com/almanac/selectors/n/nth-child/)*
 
 
+
+##  day 2 challenge - animated loader <a name="id02"></a>
+![Day 02](https://user-images.githubusercontent.com/37448340/88348825-d5573380-cd24-11ea-832c-989e091167b8.gif)
+
+
+[My code]() *unavailable*
+
+[View the project]() *unavailable*
+
+[linkedin post]() *unavailable*
