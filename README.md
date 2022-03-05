@@ -26,6 +26,7 @@ like the idea? [Click here](https://github.com/MilenaCarecho/30diasDeCSS) to see
 
 * [Day 01 - Layered social media icon](#id01)
 * [Day 02 - animated loader](#id02)
+* [Day 03 - Text color change when entering another div](#id03)
 
 ## day 1 challenge - Layered social media icon <a name="id01"></a>
 ![Day 01](https://user-images.githubusercontent.com/37448340/88348819-d38d7000-cd24-11ea-99d1-39b04afb77f2.gif)
@@ -65,3 +66,16 @@ like the idea? [Click here](https://github.com/MilenaCarecho/30diasDeCSS) to see
 
 * *[Animations](https://css-tricks.com/almanac/properties/a/animation/)*
 * *[Keyframe](https://css-tricks.com/snippets/css/keyframe-animation-syntax/)*
+
+
+
+##  day 3 challenge - Text color change when entering another div <a name="id03"></a>
+
+<img src="https://github.com/oericdacosta/30diasDeCSS/raw/master/Desafios/dia%2003/gif/dia03.gif">
+
+
+[My code]() *unavailable*
+
+[View the project]() *unavailable*
+
+[linkedin post]() *unavailable*
