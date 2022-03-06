@@ -27,6 +27,7 @@ like the idea? [Click here](https://github.com/MilenaCarecho/30diasDeCSS) to see
 * [Day 01 - Layered social media icon](#id01)
 * [Day 02 - animated loader](#id02)
 * [Day 03 - Text color change when entering another div](#id03)
+* [Day 04 - Button with effect](#id04)
 
 ## day 1 challenge - Layered social media icon <a name="id01"></a>
 ![Day 01](https://user-images.githubusercontent.com/37448340/88348819-d38d7000-cd24-11ea-99d1-39b04afb77f2.gif)
@@ -86,3 +87,14 @@ like the idea? [Click here](https://github.com/MilenaCarecho/30diasDeCSS) to see
 
 * *[CSS Overflow](https://css-tricks.com/almanac/properties/o/overflow/)* 
 * *Use [animations](https://www.w3schools.com/css/css3_animations.asp)*
+
+
+
+##  day 4 challenge - Button with effect <a name="id04"></a>
+![dia 04](https://user-images.githubusercontent.com/37448340/88242961-38819100-cc65-11ea-82b3-b541ff8cb3d7.gif)
+
+[My code]() *unavailable*
+
+[View the Project]() *unavailable*
+
+[LinkedIn Post]() *unavailable*
