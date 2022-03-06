@@ -93,8 +93,8 @@ like the idea? [Click here](https://github.com/MilenaCarecho/30diasDeCSS) to see
 ##  day 4 challenge - Button with effect <a name="id04"></a>
 ![dia 04](https://user-images.githubusercontent.com/37448340/88242961-38819100-cc65-11ea-82b3-b541ff8cb3d7.gif)
 
-[My code]() *unavailable*
+[My code](https://github.com/oericdacosta/30-days-css/tree/main/day-04)
 
-[View the Project]() *unavailable*
+[View the Project](https://codepen.io/adsumos/pen/jOaJpxm?editors=1100)
 
 [LinkedIn Post]() *unavailable*
