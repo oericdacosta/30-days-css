@@ -97,7 +97,7 @@ like the idea? [Click here](https://github.com/MilenaCarecho/30diasDeCSS) to see
 
 [View the Project](https://codepen.io/adsumos/pen/jOaJpxm?editors=1100)
 
-[LinkedIn Post]() *unavailable*
+[LinkedIn Post](https://www.linkedin.com/posts/eric-da-costa_30diasdecss-css-css3-activity-6906284833803173888-KoBB) *unavailable*
 
 ##### what I've learned
 
