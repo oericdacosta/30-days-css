@@ -98,3 +98,13 @@ like the idea? [Click here](https://github.com/MilenaCarecho/30diasDeCSS) to see
 [View the Project](https://codepen.io/adsumos/pen/jOaJpxm?editors=1100)
 
 [LinkedIn Post]() *unavailable*
+
+##### what I've learned
+
+* *[:hover](https://www.w3schools.com/cssref/sel_hover.asp)* 
+* *[::before](https://www.w3schools.com/cssref/sel_before.asp)*
+* *[::after](https://www.w3schools.com/cssref/sel_after.asp)*
+* *[Transições ](https://www.w3schools.com/css/css3_transitions.asp)*
+* *[transformação](https://www.w3schools.com/cssref/css3_pr_transform.asp)*
+*  *[CSS filter](https://www.w3schools.com/cssref/css3_pr_filter.asp)*
+*  *[Box-reflect](https://www.w3schools.com/css/css3_image_reflection.asp)*
