@@ -74,8 +74,15 @@ like the idea? [Click here](https://github.com/MilenaCarecho/30diasDeCSS) to see
 <img src="https://github.com/oericdacosta/30diasDeCSS/raw/master/Desafios/dia%2003/gif/dia03.gif">
 
 
-[My code]() *unavailable*
+[My code](https://github.com/oericdacosta/30-days-css/tree/main/day-03)
 
-[View the project]() *unavailable*
+[View the project](https://codepen.io/adsumos/pen/yLPwXzz?editors=1100)
 
 [linkedin post]() *unavailable*
+
+
+##### what I've learned
+
+
+* *[CSS Overflow](https://css-tricks.com/almanac/properties/o/overflow/)* 
+* *Use [animations](https://www.w3schools.com/css/css3_animations.asp)*
