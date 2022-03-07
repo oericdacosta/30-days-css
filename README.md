@@ -113,9 +113,9 @@ like the idea? [Click here](https://github.com/MilenaCarecho/30diasDeCSS) to see
 ##  Challenge Day 05 - Pulse Effect <a name="id05"></a>
 ![day 05](https://user-images.githubusercontent.com/37448340/88354131-4d7a2500-cd36-11ea-800e-eec277f17737.gif)
 
-[My code]() *unavailable*
+[My code](https://github.com/oericdacosta/30-days-css/tree/main/Day-05)
 
-[View the project]() *unavailable*
+[View the project](https://codepen.io/adsumos/pen/vYWMQwo)
 
 [LinkedIn Post]() *unavailable*
 
