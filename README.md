@@ -130,8 +130,13 @@ like the idea? [Click here](https://github.com/MilenaCarecho/30diasDeCSS) to see
 ![dia 06](https://user-images.githubusercontent.com/37448340/88449709-5d216880-ce1f-11ea-924b-18acde214ce9.gif)
 
 
-[My Code]() *unavailable*
+[My Code](https://github.com/oericdacosta/30-days-css/tree/main/day-06)
 
-[View the project]() *unavailable*
+[View the project](https://codepen.io/adsumos/pen/jOaJpxm?editors=1100)
 
 [LinkedIn Post]() *unavailable*
+
+##### What I've learned
+
+* *[animations](https://www.w3schools.com/css/css3_animations.asp)*
+* *[box-reflect](https://www.w3schools.com/css/css3_image_reflection.asp)*
