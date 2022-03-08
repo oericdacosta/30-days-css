@@ -132,9 +132,9 @@ like the idea? [Click here](https://github.com/MilenaCarecho/30diasDeCSS) to see
 
 [My Code](https://github.com/oericdacosta/30-days-css/tree/main/day-06)
 
-[View the project](https://codepen.io/adsumos/pen/jOaJpxm?editors=1100)
+[View the project](https://codepen.io/adsumos/pen/bGYymYj)
 
-[LinkedIn Post]() *unavailable*
+[LinkedIn Post](https://www.linkedin.com/posts/eric-da-costa_text-effect-activity-6907036060585766913-zie5)
 
 ##### What I've learned
 
