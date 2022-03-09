@@ -30,6 +30,7 @@ like the idea? [Click here](https://github.com/MilenaCarecho/30diasDeCSS) to see
 * [Day 04 - Button with effect](#id04)
 * [Day 05 - Pulse Effect](#id05)
 * [Day 06 - Lightning Text Effect](#id06)
+* [Day 07 - Animated Preloader](#id07)
 ## day 1 challenge - Layered social media icon <a name="id01"></a>
 ![Day 01](https://user-images.githubusercontent.com/37448340/88348819-d38d7000-cd24-11ea-99d1-39b04afb77f2.gif)
 
@@ -140,3 +141,14 @@ like the idea? [Click here](https://github.com/MilenaCarecho/30diasDeCSS) to see
 
 * *[animations](https://www.w3schools.com/css/css3_animations.asp)*
 * *[box-reflect](https://www.w3schools.com/css/css3_image_reflection.asp)*
+
+
+## Day 07 Challenge - Animated Preloader <a name="id07"></a>
+![day 07](https://user-images.githubusercontent.com/37448340/88490911-412fdb00-cf75-11ea-806c-c41df0d1727e.gif)
+
+
+[My Code]() *unavailable*
+
+[View the project]() *unavailable*
+
+[LinkedIn Post]() *unavailable*
