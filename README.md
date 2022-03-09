@@ -147,8 +147,14 @@ like the idea? [Click here](https://github.com/MilenaCarecho/30diasDeCSS) to see
 ![day 07](https://user-images.githubusercontent.com/37448340/88490911-412fdb00-cf75-11ea-806c-c41df0d1727e.gif)
 
 
-[My Code]() *unavailable*
+[My Code](https://github.com/oericdacosta/30-days-css/tree/main/day-07)
 
-[View the project]() *unavailable*
+[View the project](https://codepen.io/adsumos/pen/dyZBzZL?editors=1100)
 
 [LinkedIn Post]() *unavailable*
+
+##### What I've learned
+
+* *[animations](https://www.w3schools.com/css/css3_animations.asp)*
+* *[nth-child ()](https://www.w3schools.com/cssref/sel_nth-child.asp)*
+
