@@ -151,7 +151,7 @@ like the idea? [Click here](https://github.com/MilenaCarecho/30diasDeCSS) to see
 
 [View the project](https://codepen.io/adsumos/pen/dyZBzZL?editors=1100)
 
-[LinkedIn Post]() *unavailable*
+[LinkedIn Post](https://www.linkedin.com/posts/eric-da-costa_30diasdecss-css-html-activity-6907301771157622784-1Ve_)
 
 ##### What I've learned
 
