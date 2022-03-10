@@ -82,7 +82,7 @@ like the idea? [Click here](https://github.com/MilenaCarecho/30diasDeCSS) to see
 
 [My code](https://github.com/oericdacosta/30-days-css/tree/main/day-03)
 
-[View the project](https://codepen.io/adsumos/pen/yLPwXzz?editors=1100)
+[View the project](https://codepen.io/adsumos/pen/yLPwXzz)
 
 [linkedin post](https://www.linkedin.com/posts/eric-da-costa_30diasdecss-css-css3-activity-6906058248068091905-xTDj)
 
@@ -100,7 +100,7 @@ like the idea? [Click here](https://github.com/MilenaCarecho/30diasDeCSS) to see
 
 [My code](https://github.com/oericdacosta/30-days-css/tree/main/day-04)
 
-[View the Project](https://codepen.io/adsumos/pen/jOaJpxm?editors=1100)
+[View the Project](https://codepen.io/adsumos/pen/jOaJpxm)
 
 [LinkedIn Post](https://www.linkedin.com/posts/eric-da-costa_30diasdecss-css-css3-activity-6906284833803173888-KoBB) *unavailable*
 
@@ -152,7 +152,7 @@ like the idea? [Click here](https://github.com/MilenaCarecho/30diasDeCSS) to see
 
 [My Code](https://github.com/oericdacosta/30-days-css/tree/main/day-07)
 
-[View the project](https://codepen.io/adsumos/pen/dyZBzZL?editors=1100)
+[View the project](https://codepen.io/adsumos/pen/dyZBzZL)
 
 [LinkedIn Post](https://www.linkedin.com/posts/eric-da-costa_30diasdecss-css-html-activity-6907301771157622784-1Ve_)
 
@@ -168,9 +168,9 @@ like the idea? [Click here](https://github.com/MilenaCarecho/30diasDeCSS) to see
 
 [My Code](https://github.com/oericdacosta/30-days-css/tree/main/day-08)
 
-[View the project](https://codepen.io/adsumos/pen/qBVejzp?editors=1100)
+[View the project](https://codepen.io/adsumos/pen/qBVejzp)
 
-[LinkedIn Post]() *Unavailable*
+[LinkedIn Post](https://www.linkedin.com/posts/eric-da-costa_30diasdecss-css-html-activity-6907649707016118272-AHvO)
 
 ##### What I've learned
 
