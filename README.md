@@ -31,6 +31,9 @@ like the idea? [Click here](https://github.com/MilenaCarecho/30diasDeCSS) to see
 * [Day 05 - Pulse Effect](#id05)
 * [Day 06 - Lightning Text Effect](#id06)
 * [Day 07 - Animated Preloader](#id07)
+* [Day 08 - Heart beating](#id08)
+
+
 ## day 1 challenge - Layered social media icon <a name="id01"></a>
 ![Day 01](https://user-images.githubusercontent.com/37448340/88348819-d38d7000-cd24-11ea-99d1-39b04afb77f2.gif)
 
@@ -157,4 +160,15 @@ like the idea? [Click here](https://github.com/MilenaCarecho/30diasDeCSS) to see
 
 * *[animations](https://www.w3schools.com/css/css3_animations.asp)*
 * *[nth-child ()](https://www.w3schools.com/cssref/sel_nth-child.asp)*
+
+
+# Challenge Day 08 - Heart beating <a name="id08"></a>
+![gif](https://user-images.githubusercontent.com/37448340/88534017-9c95b380-cfdd-11ea-9b54-b883fd9f9e77.gif)
+
+
+[My Code]() *Unavailable*
+
+[View the project]() *Unavailable*
+
+[LinkedIn Post]() *Unavailable*
 
