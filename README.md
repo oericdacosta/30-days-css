@@ -166,9 +166,14 @@ like the idea? [Click here](https://github.com/MilenaCarecho/30diasDeCSS) to see
 ![gif](https://user-images.githubusercontent.com/37448340/88534017-9c95b380-cfdd-11ea-9b54-b883fd9f9e77.gif)
 
 
-[My Code]() *Unavailable*
+[My Code](https://github.com/oericdacosta/30-days-css/tree/main/day-08)
 
-[View the project]() *Unavailable*
+[View the project](https://codepen.io/adsumos/pen/qBVejzp?editors=1100)
 
 [LinkedIn Post]() *Unavailable*
 
+##### What I've learned
+
+* *[::before](https://www.w3schools.com/cssref/sel_before.asp)*
+* *[::after](https://www.w3schools.com/cssref/sel_after.asp)*
+* *[animations](https://www.w3schools.com/css/css3_animations.asp)*
