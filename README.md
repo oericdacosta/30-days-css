@@ -183,8 +183,16 @@ like the idea? [Click here](https://github.com/MilenaCarecho/30diasDeCSS) to see
 ![gif (1)](https://user-images.githubusercontent.com/37448340/88670759-d76e1900-d0bb-11ea-8158-edf1cdf41b97.gif)
 
 
-[My Code]() *Unavailable*
+[My Code](https://github.com/oericdacosta/30-days-css/tree/main/day-09)
 
-[View the project]() *Unavailable*
+[View the project](https://codepen.io/adsumos/pen/mdpbBed)
 
 [LinkedIn Post]() *Unavailable*
+
+##### What I've learned
+
+* *[::before](https://www.w3schools.com/cssref/sel_before.asp)*
+* *[::after](https://www.w3schools.com/cssref/sel_after.asp)*
+* *[first-child](https://www.w3schools.com/cssref/sel_firstchild.asp)*
+* *[last-child](https://www.w3schools.com/cssref/sel_last-child.asp)*
+* *[animations](https://www.w3schools.com/css/css3_animations.asp)*
