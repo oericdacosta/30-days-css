@@ -187,7 +187,7 @@ like the idea? [Click here](https://github.com/MilenaCarecho/30diasDeCSS) to see
 
 [View the project](https://codepen.io/adsumos/pen/mdpbBed)
 
-[LinkedIn Post]() *Unavailable*
+[LinkedIn Post](https://www.linkedin.com/posts/eric-da-costa_css-html-html5-activity-6908035595642245120-8Afp)
 
 ##### What I've learned
 
