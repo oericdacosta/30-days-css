@@ -34,6 +34,7 @@ like the idea? [Click here](https://github.com/MilenaCarecho/30diasDeCSS) to see
 * [Day 08 - Heart beating](#id08)
 * [Day 09 - Newton's Pendulum](#id09)
 * [Day 10 - Alternating text animation](#id10)
+* [Day 11 - Button with hover effect](#id11)
 
 
 ## day 1 challenge - Layered social media icon <a name="id01"></a>
@@ -212,3 +213,13 @@ like the idea? [Click here](https://github.com/MilenaCarecho/30diasDeCSS) to see
 
 * *[::before](https://www.w3schools.com/cssref/sel_before.asp)*
 * *[animations](https://www.w3schools.com/css/css3_animations.asp)*
+
+## Challenge day 11 - Button with hover effect <a name="id11"></a>
+![gif (3)](https://user-images.githubusercontent.com/37448340/88915715-29897880-d23b-11ea-9f58-8fe93214d3cc.gif)
+
+
+[My Code]() *Unavailable*
+
+[View the project]() *Unavailable*
+
+[LinkedIn Post]() *Unavailable*
