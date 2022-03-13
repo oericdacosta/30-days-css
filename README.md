@@ -112,8 +112,8 @@ like the idea? [Click here](https://github.com/MilenaCarecho/30diasDeCSS) to see
 * *[:hover](https://www.w3schools.com/cssref/sel_hover.asp)* 
 * *[::before](https://www.w3schools.com/cssref/sel_before.asp)*
 * *[::after](https://www.w3schools.com/cssref/sel_after.asp)*
-* *[Transições ](https://www.w3schools.com/css/css3_transitions.asp)*
-* *[transformação](https://www.w3schools.com/cssref/css3_pr_transform.asp)*
+* *[transitions](https://www.w3schools.com/css/css3_transitions.asp)*
+* *[transform](https://www.w3schools.com/cssref/css3_pr_transform.asp)*
 *  *[CSS filter](https://www.w3schools.com/cssref/css3_pr_filter.asp)*
 *  *[Box-reflect](https://www.w3schools.com/css/css3_image_reflection.asp)*
 
@@ -130,7 +130,7 @@ like the idea? [Click here](https://github.com/MilenaCarecho/30diasDeCSS) to see
 ##### What I've learned
 
 * *[animations](https://www.w3schools.com/css/css3_animations.asp)*
-* *[transformação](https://www.w3schools.com/cssref/css3_pr_transform.asp)*
+* *[transform](https://www.w3schools.com/cssref/css3_pr_transform.asp)*
 
 
 ## Day 06 Challenge - Lightning text effect <a name="id06"></a>
@@ -218,8 +218,16 @@ like the idea? [Click here](https://github.com/MilenaCarecho/30diasDeCSS) to see
 ![gif (3)](https://user-images.githubusercontent.com/37448340/88915715-29897880-d23b-11ea-9f58-8fe93214d3cc.gif)
 
 
-[My Code]() *Unavailable*
+[My Code](https://github.com/oericdacosta/30-days-css/tree/main/day-11)
 
-[View the project]() *Unavailable*
+[View the project](https://codepen.io/adsumos/pen/rNpNEeQ)
 
 [LinkedIn Post]() *Unavailable*
+
+##### What I've learned
+
+* *[::before](https://www.w3schools.com/cssref/sel_before.asp)*
+* *[::after](https://www.w3schools.com/cssref/sel_after.asp)*
+* *[:hover](https://www.w3schools.com/cssref/sel_hover.asp)* 
+* *[transitions](https://www.w3schools.com/css/css3_transitions.asp)*
+*  *[CSS filter](https://www.w3schools.com/cssref/css3_pr_filter.asp)*
