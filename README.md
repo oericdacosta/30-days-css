@@ -202,8 +202,13 @@ like the idea? [Click here](https://github.com/MilenaCarecho/30diasDeCSS) to see
 ![gif (2)](https://user-images.githubusercontent.com/37448340/88792562-caabfc80-d171-11ea-8c71-9756331e3ab6.gif)
 
 
-[My Code]() *Unavailable*
+[My Code](https://github.com/oericdacosta/30-days-css/tree/main/day-10)
 
-[View the project]() *Unavailable*
+[View the project](https://codepen.io/adsumos/pen/yLpLPrW)
 
 [LinkedIn Post]() *Unavailable*
+
+##### What I've learned
+
+* *[::before](https://www.w3schools.com/cssref/sel_before.asp)*
+* *[animations](https://www.w3schools.com/css/css3_animations.asp)*
