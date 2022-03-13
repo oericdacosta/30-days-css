@@ -33,6 +33,7 @@ like the idea? [Click here](https://github.com/MilenaCarecho/30diasDeCSS) to see
 * [Day 07 - Animated Preloader](#id07)
 * [Day 08 - Heart beating](#id08)
 * [Day 09 - Newton's Pendulum](#id09)
+* [Day 10 - Alternating text animation](#id10)
 
 
 ## day 1 challenge - Layered social media icon <a name="id01"></a>
@@ -196,3 +197,13 @@ like the idea? [Click here](https://github.com/MilenaCarecho/30diasDeCSS) to see
 * *[first-child](https://www.w3schools.com/cssref/sel_firstchild.asp)*
 * *[last-child](https://www.w3schools.com/cssref/sel_last-child.asp)*
 * *[animations](https://www.w3schools.com/css/css3_animations.asp)*
+
+## Day 10 Challenge - Text animation toggling <a name="id10"></a>
+![gif (2)](https://user-images.githubusercontent.com/37448340/88792562-caabfc80-d171-11ea-8c71-9756331e3ab6.gif)
+
+
+[My Code]() *Unavailable*
+
+[View the project]() *Unavailable*
+
+[LinkedIn Post]() *Unavailable*
