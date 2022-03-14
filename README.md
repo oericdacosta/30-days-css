@@ -237,8 +237,15 @@ like the idea? [Click here](https://github.com/MilenaCarecho/30diasDeCSS) to see
 ![gif (4)](https://user-images.githubusercontent.com/37448340/89034283-05976700-d30f-11ea-983f-5b0171212a2a.gif)
 
 
-[My Code]() *Unavailable*
+[My Code](https://github.com/oericdacosta/30-days-css/tree/main/day-12)
 
-[View the project]() *Unavailable*
+[View the project](https://codepen.io/adsumos/pen/VwyYbXR)
 
 [LinkedIn Post]() *Unavailable*
+
+##### What I've learned
+
+* *[::before](https://www.w3schools.com/cssref/sel_before.asp)*
+* *[:hover](https://www.w3schools.com/cssref/sel_hover.asp)* 
+* *[transitions](https://www.w3schools.com/css/css3_transitions.asp)*
+* *[transform](https://www.w3schools.com/cssref/css3_pr_transform.asp)*
