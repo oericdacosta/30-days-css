@@ -255,8 +255,13 @@ like the idea? [Click here](https://github.com/MilenaCarecho/30diasDeCSS) to see
 ![gif (3)](https://user-images.githubusercontent.com/37448340/89111708-69b14c80-d42f-11ea-904b-1a4e5a1842e0.gif)
 
 
-[My Code]() *Unavailable*
+[My Code](https://github.com/oericdacosta/30-days-css/tree/main/day-13)
 
-[View the project]() *Unavailable*
+[View the project](https://codepen.io/adsumos/pen/ZEvGLoM)
 
 [LinkedIn Post]() *Unavailable*
+
+##### What I've learned
+
+* *[transform](https://www.w3schools.com/cssref/css3_pr_transform.asp)*
+* *[animations](https://www.w3schools.com/css/css3_animations.asp)*
