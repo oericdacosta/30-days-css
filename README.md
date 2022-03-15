@@ -259,7 +259,7 @@ like the idea? [Click here](https://github.com/MilenaCarecho/30diasDeCSS) to see
 
 [View the project](https://codepen.io/adsumos/pen/ZEvGLoM)
 
-[LinkedIn Post]() *Unavailable*
+[LinkedIn Post](https://www.linkedin.com/posts/eric-da-costa_30diasdecss-css-html-activity-6909478068491313152-ETRA)
 
 ##### What I've learned
 
