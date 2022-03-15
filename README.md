@@ -36,6 +36,7 @@ like the idea? [Click here](https://github.com/MilenaCarecho/30diasDeCSS) to see
 * [Day 10 - Alternating text animation](#id10)
 * [Day 11 - Button with hover effect](#id11)
 * [Day 12 - Hover Fill Effect](#id12)
+* [Day 13 - Loading with effect](#id13)
 
 
 ## day 1 challenge - Layered social media icon <a name="id01"></a>
@@ -249,3 +250,13 @@ like the idea? [Click here](https://github.com/MilenaCarecho/30diasDeCSS) to see
 * *[:hover](https://www.w3schools.com/cssref/sel_hover.asp)* 
 * *[transitions](https://www.w3schools.com/css/css3_transitions.asp)*
 * *[transform](https://www.w3schools.com/cssref/css3_pr_transform.asp)*
+
+## Challenge Day 13 - Loading with effect<a name="id13"></a>
+![gif (3)](https://user-images.githubusercontent.com/37448340/89111708-69b14c80-d42f-11ea-904b-1a4e5a1842e0.gif)
+
+
+[My Code]() *Unavailable*
+
+[View the project]() *Unavailable*
+
+[LinkedIn Post]() *Unavailable*
