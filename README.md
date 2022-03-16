@@ -37,6 +37,7 @@ like the idea? [Click here](https://github.com/MilenaCarecho/30diasDeCSS) to see
 * [Day 11 - Button with hover effect](#id11)
 * [Day 12 - Hover Fill Effect](#id12)
 * [Day 13 - Loading with effect](#id13)
+* [Day 14 - Animated Text Background](#id14)
 
 
 ## day 1 challenge - Layered social media icon <a name="id01"></a>
@@ -265,3 +266,13 @@ like the idea? [Click here](https://github.com/MilenaCarecho/30diasDeCSS) to see
 
 * *[transform](https://www.w3schools.com/cssref/css3_pr_transform.asp)*
 * *[animations](https://www.w3schools.com/css/css3_animations.asp)*
+
+## Day 14 Challenge - Animated Text Background<a name="id14"></a>
+![gif (4)](https://user-images.githubusercontent.com/37448340/89136987-adc64f00-d50c-11ea-8ce7-97515b31ae0e.gif)
+
+
+[My Code]() *Unavailable*
+
+[View the project]() *Unavailable*
+
+[LinkedIn Post]() *Unavailable*
