@@ -291,7 +291,7 @@ like the idea? [Click here](https://github.com/MilenaCarecho/30diasDeCSS) to see
 
 [View the project](https://codepen.io/adsumos/pen/rNpxvOr)
 
-[LinkedIn Post]() *Unavailable*
+[LinkedIn Post](https://www.linkedin.com/posts/eric-da-costa_30diasdecss-html-html5-activity-6910352907171192832-unc0?utm_source=linkedin_share&utm_medium=member_desktop_web)
 
 ##### What I've learned
 
