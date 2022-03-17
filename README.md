@@ -287,8 +287,12 @@ like the idea? [Click here](https://github.com/MilenaCarecho/30diasDeCSS) to see
 ![gif (5)](https://user-images.githubusercontent.com/37448340/89242255-796b9500-d5d7-11ea-9e4f-4f4d499f5dc6.gif)
 
 
-[My Code]() *Unaavailable*
+[My Code](https://github.com/oericdacosta/30-days-css/tree/main/day-15)
 
-[View the project]() *Unaavailable*
+[View the project](https://codepen.io/adsumos/pen/rNpxvOr)
 
-[LinkedIn Post]() *Unaavailable*
+[LinkedIn Post]() *Unavailable*
+
+##### What I've learned
+
+* *[animations](https://www.w3schools.com/css/css3_animations.asp)*
