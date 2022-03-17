@@ -38,6 +38,7 @@ like the idea? [Click here](https://github.com/MilenaCarecho/30diasDeCSS) to see
 * [Day 12 - Hover Fill Effect](#id12)
 * [Day 13 - Loading with effect](#id13)
 * [Day 14 - Animated Text Background](#id14)
+* [Day 15 - Floating Text](#id15)
 
 
 ## day 1 challenge - Layered social media icon <a name="id01"></a>
@@ -281,3 +282,13 @@ like the idea? [Click here](https://github.com/MilenaCarecho/30diasDeCSS) to see
 
 * *[transform](https://www.w3schools.com/cssref/css3_pr_transform.asp)*
 * *[clip-path](https://www.w3schools.com/cssref/css3_pr_clip-path.asp)*
+
+##  Desafio dia 15 - Texto flutuante<a name="id15"></a>
+![gif (5)](https://user-images.githubusercontent.com/37448340/89242255-796b9500-d5d7-11ea-9e4f-4f4d499f5dc6.gif)
+
+
+[My Code]() *Unaavailable*
+
+[View the project]() *Unaavailable*
+
+[LinkedIn Post]() *Unaavailable*
